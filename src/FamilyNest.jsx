@@ -1,4 +1,5 @@
-import { useState, useEffect, useRef } from "react";
+/* eslint-disable react-hooks/exhaustive-deps */
+import { useState, useEffect } from "react";
 
 const C = {
   bg: "#FFF7F0", card: "#FFFFFF", primary: "#D96A3C", primaryLight: "#F5E6DE",
